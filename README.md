@@ -5,6 +5,3 @@ React Recipe App for testing purposes
 - [x] React js
 - [x] Web Technologies
 - [x] Graphic
-- [x] Libraries
-- [x] Frameworks
-- [x] Wiki
